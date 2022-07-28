@@ -1,0 +1,11 @@
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\bin\Debug\IT-Ticket-System.exe.config
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\bin\Debug\IT-Ticket-System.exe
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\bin\Debug\IT-Ticket-System.pdb
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT-Ticket-System.csprojAssemblyReference.cache
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT_Ticket_System.Host.resources
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT_Ticket_System.Properties.Resources.resources
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT-Ticket-System.csproj.GenerateResource.cache
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT-Ticket-System.csproj.CoreCompileInputs.cache
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT-Ticket-System.exe
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT-Ticket-System.pdb
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT_Ticket_System.Login.resources
