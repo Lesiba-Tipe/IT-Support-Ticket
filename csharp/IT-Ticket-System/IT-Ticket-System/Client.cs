@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace IT_Ticket_System
 {
-    public partial class User : UserControl
+    public partial class Client : UserControl
     {
-        public User()
+        public Client()
         {
             InitializeComponent();
         }

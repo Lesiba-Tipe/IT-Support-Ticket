@@ -1,6 +1,6 @@
 ﻿namespace IT_Ticket_System
 {
-    partial class User
+    partial class Client
     {
         /// <summary> 
         /// Required designer variable.
@@ -36,6 +36,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // cmbType
@@ -106,19 +107,30 @@
             this.label1.TabIndex = 7;
             this.label1.Text = "Description";
             // 
-            // User
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(218, 15);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(33, 13);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "Client";
+            // 
+            // Client
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.cmbType);
             this.Controls.Add(this.btnSubmit);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.lstDescription);
             this.Controls.Add(this.dtpDate);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "User";
+            this.Name = "Client";
             this.Size = new System.Drawing.Size(486, 315);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -135,5 +147,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label4;
     }
 }

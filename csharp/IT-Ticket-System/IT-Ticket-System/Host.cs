@@ -13,6 +13,7 @@ namespace IT_Ticket_System
     public partial class Host : Form
     {
         public static Panel panel = new Panel();
+        
         public Host()
         {
             InitializeComponent();

@@ -9,3 +9,6 @@ C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticke
 C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT-Ticket-System.exe
 C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT-Ticket-System.pdb
 C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT_Ticket_System.Login.resources
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT_Ticket_System.Admin.resources
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT_Ticket_System.Technician.resources
+C:\Users\iamtipe\source\repos\IT-Support-Ticket\csharp\IT-Ticket-System\IT-Ticket-System\obj\Debug\IT_Ticket_System.Client.resources
